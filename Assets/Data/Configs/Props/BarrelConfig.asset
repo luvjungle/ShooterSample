@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aec7f632a5f14ca8aaa3e0429bdb0667, type: 3}
+  m_Name: BarrelConfig
+  m_EditorClassIdentifier: 
+  _health: 30
+  _damage: 10
+  _damageRadius: 3
+  _hitLayerMask:
+    serializedVersion: 2
+    m_Bits: 193
+  _explosionForce: 10
+  _fireVFX: {fileID: 1780825217206739889, guid: 042ae51bc968dfd4e99c2c35a0b360f9, type: 3}
+  _explodeVFX: {fileID: 1020894060888261970, guid: 05da060e0b3158a4cba3ddfaee37a94a, type: 3}
+  _explodedMaterial: {fileID: 2100000, guid: 98d206668b6c84a4d958f3480d01c773, type: 2}

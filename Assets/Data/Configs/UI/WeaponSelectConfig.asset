@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 985132f3613d4d11953c0b9eec4cf36a, type: 3}
+  m_Name: WeaponSelectConfig
+  m_EditorClassIdentifier: 
+  _weapons:
+  - {fileID: 11400000, guid: f5385a4e3878dab4bb581f14529ec8bf, type: 2}
+  - {fileID: 11400000, guid: f26bf3827bdd5f34b9e6c6677113b64c, type: 2}
+  _openedSizeDelta: {x: 1000, y: 650}
+  _closedSizeDelta: {x: 100, y: 100}
+  _animationDuration: 0.3

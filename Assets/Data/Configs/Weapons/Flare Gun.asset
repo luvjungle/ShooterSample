@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f78a1d6f56846e185bc2c6c8d1daf4e, type: 3}
+  m_Name: Flare Gun
+  m_EditorClassIdentifier: 
+  _name: Flare Gun
+  _description: Slow, but has AOD
+  _icon: {fileID: 21300000, guid: f207c6941efc7e047bf024a0dd51a913, type: 3}
+  _prefab: {fileID: -5907110298216949945, guid: 6806ddd989aa88d4e96aa5b87edc88ef, type: 3}
+  _shootCooldown: 1.5
+  _range: 5
+  _spread: {x: 10, y: 10}
+  _bulletPrefab: {fileID: 562470704075823977, guid: 4fd1596014be4884fb287d869607fc53, type: 3}
+  _damage: 10
+  _damageRadius: 1.5
+  _bulletSpeed: 10
+  _bulletLifeTime: 3
+  _bulletRadius: 0.1
+  _explosionForce: 10
+  _hitParticleSystem: {fileID: 6796171828135870947, guid: d29102dd6ab99944c81caeb51d71d0f8, type: 3}
+  _hitLayerMask:
+    serializedVersion: 2
+    m_Bits: 129
