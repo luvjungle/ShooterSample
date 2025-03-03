@@ -1,4 +1,4 @@
-## This serves as a part of my CV to show some of the code practices that I use. 
+## This project serves as a part of my CV to show some of the code practices that I use. 
 
 So it may appear a bit overengineered for a project of this scope.
 
